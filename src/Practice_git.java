@@ -6,6 +6,7 @@ public class Practice_git {
 
 		
 		System.out.println("Welcome to GitHub...");
+		System.out.println("hi this velocity student");
 	}
 
 }
